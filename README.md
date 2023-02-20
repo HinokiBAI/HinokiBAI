@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning EE in UESTC
 - 💞️ I’m looking to collaborate on computer vision and deep learning field
 - 📫 How to reach me send email to 13932953526@163.com
+--------------------------------------------------------------------------------
 - Pink Floyd > the Queen
 - Oasis > U2
 - Radiohead rocks
