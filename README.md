@@ -4,10 +4,8 @@
 - 💞️ I’m looking to collaborate on computer vision and deep learning field
 - 📫 How to reach me send email to 13932953526@163.com
 --------------------------------------------------------------------------------
-- Pink Floyd > the Queen
-- Oasis > U2
-- Radiohead rocks
-- Coldplay sucks
+- 💗💗关注永雏塔菲😺喵💗💗
+- 💗💗关注永雏塔菲谢谢😺喵💗💗
 
 <!---
 HinokiBAI/HinokiBAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
