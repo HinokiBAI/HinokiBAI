@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning EE in UESTC
 - 💞️ I’m looking to collaborate on computer vision and deep learning field
-- 📫 How to reach me send email to 13932953526@163.com
+- 📫 How to reach me send email to baitianyou.hnk@gmail.com
 --------------------------------------------------------------------------------
 - 💗💗关注永雏塔菲😺喵💗💗
 - 💗💗关注永雏塔菲😺谢谢喵💗💗
