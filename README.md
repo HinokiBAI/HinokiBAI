@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on computer vision and deep learning field
 - 📫 How to reach me send email to baitianyou.hnk@gmail.com
 --------------------------------------------------------------------------------
-打倒学校官僚主义，学术不需要寄生虫！！！
+you had your time, you had the power, you've yet to have your finest hour. 
 
 <!---
 HinokiBAI/HinokiBAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
