@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bai Tianyou
+## Welcome!
+- 👋 I’m @Bai Tianyou
 - 👀 I’m interested in LLM and LVLM
 - 🌱 I’m currently learning CS in Chinese Academy of Sciences
 - 👷🏻 I'm working on multimodal artificial intelligence in the PAL group (https://nlpr.ia.ac.cn/pal/) and National Key Laboratory of Multimodal Artificial Intelligence (https://ia.cas.cn/)
