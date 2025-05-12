@@ -5,7 +5,9 @@
 - 💞️ I’m looking to collaborate on computer vision and pattern recognition field
 - 📫 How to reach me send email to baitianyou.hnk@gmail.com
 
-
+## Papers(2)
+-[Wavelet Transformer-Based Multi-Channel and Multi-Resolution Information Perceptron for Lithium-ion Battery State of Health Estimation](https://ieeexplore.ieee.org/document/10962264)
+-[Convolutional Transformer-Based Multiview Information Perception Framework for Lithium-Ion Battery State-of-Health Estimation](https://ieeexplore.ieee.org/document/10198842)
 <!---
 HinokiBAI/HinokiBAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
